@@ -9,6 +9,8 @@ creator:
     gutenberg_agent_id: '1955'
     url: http://www.gutenberg.org/2009/agents/1955
 description: ''
+edition_identifiers:
+  edition_id: http://www.gutenberg.org/ebooks/36323#Two-Boys-of-the-Battleship--Or-For-the-Honor-of-Uncle-Sam
 gutenberg_issued: '2011-06-05'
 gutenberg_type: Text
 identifiers:
